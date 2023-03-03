@@ -1,0 +1,6 @@
+1:solicitar a lista de numeros
+2:inicializar a variavel soma com 0
+3:faça a soma de todos os numeros da lista
+4:faça a média dividindo a variavel soma de todos os numeros pelo 
+tamanho da lista
+5:escreva o resultado
