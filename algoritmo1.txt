@@ -1,0 +1,4 @@
+1:leiao numero 1 ou 2
+2:faça a soma desses nùmeros
+3:escreva o resultado da soma
+4:fim
