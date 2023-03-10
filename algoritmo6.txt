@@ -1,0 +1,6 @@
+1: leia x
+2: leia potencia
+3: var resultado = x
+4: para todos valores entre 1 e potenci, faça:
+5: resultado = resultado * x
+6: escreva resultado

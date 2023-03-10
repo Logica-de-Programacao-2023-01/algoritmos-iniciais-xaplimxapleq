@@ -1,0 +1,7 @@
+1: leia taxa_juros
+2: leia capital
+3: leia tempo
+4: var resultado = capital * taxa_juros
+5: para todos os valores entre 1 e tempo faça:
+6: resultado = resultado * taxa_juros
+7: escreva resultado
